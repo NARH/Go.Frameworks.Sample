@@ -1,0 +1,3 @@
+[submodule "Go.Gin.Sample"]
+	path = Go.Gin.Sample
+	url = git@github.com:NARH/Go.Gin.Sample.git
